@@ -1,0 +1,1 @@
+# function2-squaring-an-argument
